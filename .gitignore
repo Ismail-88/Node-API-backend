@@ -1,3 +1,15 @@
-node_modules
+node_modules/
 
+# env files
 .env
+server/.env
+client/.env
+
+# builds
+dist/
+build/
+
+# uploads / local
+uploads/
+.DS_Store
+.vscode/
