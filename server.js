@@ -12,10 +12,9 @@ const PORT = process.env.PORT || 5000;
 
 // CORS whitelist (add your Vercel URL after deploy)
 const allowedOrigins = [
-  'http://localhost:5173',               // Vite dev
-  'http://localhost:3000',               // if you use other dev port
+  'http://localhost:5173',               
   // add your Vercel domain here, e.g.:
-  // 'https://your-frontend.vercel.app'
+  'https://ecommerce-reacts.vercel.app'
 ];
 
 // Use CORS with whitelist
