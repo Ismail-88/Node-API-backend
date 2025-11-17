@@ -1,0 +1,1300 @@
+[{
+  "_id": {
+    "$oid": "68da428f27db9883c403c054"
+  },
+  "title": "iPhone 15 Pro Max",
+  "slug": "iphone-15-pro-max",
+  "price": 1199,
+  "description": "The most advanced iPhone yet with titanium design, A17 Pro chip, and professional camera system. Features a 6.7-inch Super Retina XDR display and up to 1TB storage.",
+  "images": [
+    "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 5,
+  "brand": "Apple",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c055"
+  },
+  "title": "Yoga Mat - Premium 6mm Thick",
+  "slug": "premium-yoga-mat-6mm",
+  "price": 49,
+  "description": "High-quality yoga mat with superior grip and cushioning. Made from eco-friendly materials with alignment lines for perfect poses.",
+  "images": [
+    "https://images.pexels.com/photos/4056723/pexels-photo-4056723.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3984370/pexels-photo-3984370.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/6111612/pexels-photo-6111612.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4383"
+  },
+  "discount": 0,
+  "brand": "Manduka",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c056"
+  },
+  "title": "The Seven Husbands of Evelyn Hugo",
+  "slug": "seven-husbands-evelyn-hugo",
+  "price": 16,
+  "description": "Bestselling novel by Taylor Jenkins Reid about reclusive Hollywood icon Evelyn Hugo who finally decides to tell her life story.",
+  "images": [
+    "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4384"
+  },
+  "discount": 0,
+  "brand": "St. Martin's Press",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c057"
+  },
+  "title": "Atomic Habits by James Clear",
+  "slug": "atomic-habits-james-clear",
+  "price": 18,
+  "description": "Practical guide to building good habits and breaking bad ones. Learn how small changes can make a remarkable difference.",
+  "images": [
+    "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4384"
+  },
+  "discount": 12,
+  "brand": "Avery",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c058"
+  },
+  "title": "Spider-Man: No Way Home 4K Blu-ray",
+  "slug": "spider-man-no-way-home-4k-bluray",
+  "price": 34,
+  "description": "Blockbuster superhero film in stunning 4K resolution with Dolby Atmos sound. Includes bonus features and digital copy.",
+  "images": [
+    "https://images.pexels.com/photos/2079876/pexels-photo-2079876.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1587927/pexels-photo-1587927.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/8111357/pexels-photo-8111357.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4384"
+  },
+  "discount": 22,
+  "brand": "Sony Pictures",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c059"
+  },
+  "title": "Fenty Beauty Foundation",
+  "slug": "fenty-beauty-foundation",
+  "price": 36,
+  "description": "Full-coverage liquid foundation with 50 shades for all skin tones. Long-wearing, transfer-resistant formula with buildable coverage.",
+  "images": [
+    "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/5240446/pexels-photo-5240446.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4385"
+  },
+  "discount": 10,
+  "brand": "Fenty Beauty",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c05a"
+  },
+  "title": "Drunk Elephant Vitamin C Serum",
+  "slug": "drunk-elephant-vitamin-c-serum",
+  "price": 78,
+  "description": "Potent antioxidant serum with 15% L-Ascorbic Acid to brighten and firm skin. Helps reduce signs of aging and environmental damage.",
+  "images": [
+    "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/5069432/pexels-photo-5069432.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4385"
+  },
+  "discount": 15,
+  "brand": "Drunk Elephant",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c05b"
+  },
+  "title": "Dyson Airwrap Hair Styler",
+  "slug": "dyson-airwrap-hair-styler",
+  "price": 599,
+  "description": "Multi-styler that curls, waves, and smooths hair without extreme heat. Uses Coanda effect for voluminous styles and reduced damage.",
+  "images": [
+    "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3992204/pexels-photo-3992204.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4385"
+  },
+  "discount": 8,
+  "brand": "Dyson",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c05c"
+  },
+  "title": "Tesla Model 3 All-Weather Floor Mats",
+  "slug": "tesla-model-3-floor-mats",
+  "price": 199,
+  "description": "Custom-fit floor mats designed specifically for Tesla Model 3. Made from premium materials with easy-to-clean surface.",
+  "images": [
+    "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3422964/pexels-photo-3422964.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4386"
+  },
+  "discount": 0,
+  "brand": "Tesla",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c05d"
+  },
+  "title": "Chemical Guys Car Wash Kit",
+  "slug": "chemical-guys-car-wash-kit",
+  "price": 89,
+  "description": "Complete car washing kit with premium shampoo, microfiber towels, wash mitt, and bucket. Everything needed for professional results.",
+  "images": [
+    "https://images.pexels.com/photos/3422964/pexels-photo-3422964.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4386"
+  },
+  "discount": 25,
+  "brand": "Chemical Guys",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c05e"
+  },
+  "title": "Garmin DashCam 67W",
+  "slug": "garmin-dashcam-67w",
+  "price": 249,
+  "description": "Wide-angle dash camera with 1440p video recording, GPS logging, and incident detection. Features voice control and smartphone connectivity.",
+  "images": [
+    "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3422964/pexels-photo-3422964.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4386"
+  },
+  "discount": 18,
+  "brand": "Garmin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c05f"
+  },
+  "title": "LEGO Creator Expert Taj Mahal",
+  "slug": "lego-creator-expert-taj-mahal",
+  "price": 369,
+  "description": "Intricate 5923-piece LEGO set recreating the iconic Taj Mahal. Features detailed architecture and comes with comprehensive building instructions.",
+  "images": [
+    "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/298825/pexels-photo-298825.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/159782/lego-toy-blocks-colorful-159782.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4387"
+  },
+  "discount": 12,
+  "brand": "LEGO",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c060"
+  },
+  "title": "Monopoly Board Game",
+  "slug": "monopoly-board-game",
+  "price": 29,
+  "description": "Classic property trading board game for 2-8 players. Build your real estate empire and bankrupt your opponents in this timeless game.",
+  "images": [
+    "https://images.pexels.com/photos/8111357/pexels-photo-8111357.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/298825/pexels-photo-298825.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4387"
+  },
+  "discount": 20,
+  "brand": "Hasbro",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c061"
+  },
+  "title": "PlayStation 5 Console",
+  "slug": "playstation-5-console",
+  "price": 499,
+  "description": "Next-generation gaming console with 4K gaming, ray tracing, and ultra-high-speed SSD. Includes DualSense wireless controller.",
+  "images": [
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/194511/pexels-photo-194511.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/7047674/pexels-photo-7047674.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4387"
+  },
+  "discount": 0,
+  "brand": "Sony",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c062"
+  },
+  "title": "Therabody Theragun Elite Massage Gun",
+  "slug": "therabody-theragun-elite-massage-gun",
+  "price": 399,
+  "description": "Professional-grade percussion massage device with smart app integration, customizable speed range, and ultra-quiet operation.",
+  "images": [
+    "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4389"
+  },
+  "discount": 22,
+  "brand": "Therabody",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c063"
+  },
+  "title": "Oura Ring Gen3 Sleep & Activity Tracker",
+  "slug": "oura-ring-gen3-sleep-activity-tracker",
+  "price": 299,
+  "description": "Smart ring that tracks sleep, activity, and recovery metrics. Lightweight titanium design with 7-day battery life and water resistance.",
+  "images": [
+    "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4389"
+  },
+  "discount": 0,
+  "brand": "Oura",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c064"
+  },
+  "title": "Philips Sonicare DiamondClean Smart Electric Toothbrush",
+  "slug": "philips-sonicare-diamondclean-smart",
+  "price": 249,
+  "description": "Premium electric toothbrush with app connectivity, multiple cleaning modes, and smart brush head recognition. Includes charging glass.",
+  "images": [
+    "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/5069432/pexels-photo-5069432.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4389"
+  },
+  "discount": 18,
+  "brand": "Philips",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c065"
+  },
+  "title": "KONG Classic Dog Toy",
+  "slug": "kong-classic-dog-toy",
+  "price": 12,
+  "description": "Durable rubber dog toy that can be stuffed with treats. Satisfies natural chewing instincts and provides mental stimulation for dogs.",
+  "images": [
+    "https://images.pexels.com/photos/1254140/pexels-photo-1254140.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/58997/pexels-photo-58997.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc438a"
+  },
+  "discount": 0,
+  "brand": "KONG",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c066"
+  },
+  "title": "Purina Pro Plan High Protein Dog Food",
+  "slug": "purina-pro-plan-high-protein-dog-food",
+  "price": 89,
+  "description": "Premium dry dog food with real chicken as the first ingredient. Formulated to support muscle development and overall health.",
+  "images": [
+    "https://images.pexels.com/photos/1254140/pexels-photo-1254140.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/58997/pexels-photo-58997.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc438a"
+  },
+  "discount": 15,
+  "brand": "Purina Pro Plan",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c067"
+  },
+  "title": "Samsung 65-inch 4K QLED Smart TV",
+  "slug": "samsung-65-inch-4k-qled-smart-tv",
+  "price": 899,
+  "description": "Experience stunning picture quality with Quantum Dot technology, HDR support, and smart TV features. Perfect for movie nights and gaming with low input lag.",
+  "images": [
+    "https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/6976094/pexels-photo-6976094.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 15,
+  "brand": "Samsung",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c068"
+  },
+  "title": "MacBook Air M3",
+  "slug": "macbook-air-m3",
+  "price": 1099,
+  "description": "Ultra-thin and lightweight laptop with M3 chip, 13.6-inch Liquid Retina display, and up to 18 hours of battery life. Perfect for work and creativity.",
+  "images": [
+    "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 8,
+  "brand": "Apple",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c069"
+  },
+  "title": "Sony WH-1000XM5 Wireless Headphones",
+  "slug": "sony-wh-1000xm5-wireless-headphones",
+  "price": 399,
+  "description": "Industry-leading noise canceling headphones with exceptional sound quality, 30-hour battery life, and crystal-clear call quality.",
+  "images": [
+    "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3394651/pexels-photo-3394651.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 20,
+  "brand": "Sony",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c06a"
+  },
+  "title": "Nintendo Switch OLED",
+  "slug": "nintendo-switch-oled",
+  "price": 349,
+  "description": "Gaming console with vibrant 7-inch OLED screen, enhanced audio, and versatile play modes. Includes dock and Joy-Con controllers.",
+  "images": [
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/194511/pexels-photo-194511.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/7047674/pexels-photo-7047674.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 10,
+  "brand": "Nintendo",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c06b"
+  },
+  "title": "iPhone 14 Pro",
+  "slug": "iphone-14-pro",
+  "price": 999,
+  "description": "Pro camera system with 48MP main camera, A16 Bionic chip, and Dynamic Island. Available in Space Black, Silver, Gold, and Deep Purple.",
+  "images": [
+    "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 12,
+  "brand": "Apple",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c06c"
+  },
+  "title": "Samsung Galaxy Tab S9",
+  "slug": "samsung-galaxy-tab-s9",
+  "price": 799,
+  "description": "Premium Android tablet with 11-inch Dynamic AMOLED display, S Pen included, and desktop-class performance for work and play.",
+  "images": [
+    "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 15,
+  "brand": "Samsung",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c06d"
+  },
+  "title": "AirPods Pro 2nd Generation",
+  "slug": "airpods-pro-2nd-generation",
+  "price": 249,
+  "description": "Wireless earbuds with active noise cancellation, transparency mode, and spatial audio. Features MagSafe charging case.",
+  "images": [
+    "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4219615/pexels-photo-4219615.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 18,
+  "brand": "Apple",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c06e"
+  },
+  "title": "Canon EOS R6 Mark II Camera",
+  "slug": "canon-eos-r6-mark-ii-camera",
+  "price": 2499,
+  "description": "Full-frame mirrorless camera with 24.2MP sensor, 4K video recording, and advanced autofocus system. Perfect for professional photography.",
+  "images": [
+    "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/279906/pexels-photo-279906.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4380"
+  },
+  "discount": 8,
+  "brand": "Canon",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c06f"
+  },
+  "title": "Levi's 501 Original Jeans",
+  "slug": "levis-501-original-jeans",
+  "price": 89,
+  "description": "Classic straight-leg jeans with authentic fit and timeless style. Made from premium denim with button fly and five-pocket styling.",
+  "images": [
+    "https://images.pexels.com/photos/1082529/pexels-photo-1082529.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 25,
+  "brand": "Levi's",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c070"
+  },
+  "title": "Nike Air Max 270 Sneakers",
+  "slug": "nike-air-max-270-sneakers",
+  "price": 150,
+  "description": "Lifestyle sneakers with large Air unit in the heel for all-day comfort. Features breathable mesh upper and modern silhouette.",
+  "images": [
+    "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 30,
+  "brand": "Nike",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c071"
+  },
+  "title": "Adidas Ultraboost 23 Running Shoes",
+  "slug": "adidas-ultraboost-23-running-shoes",
+  "price": 190,
+  "description": "Premium running shoes with Boost midsole technology, Primeknit upper, and Continental rubber outsole for superior traction.",
+  "images": [
+    "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1240892/pexels-photo-1240892.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 18,
+  "brand": "Adidas",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c072"
+  },
+  "title": "Ralph Lauren Polo Shirt",
+  "slug": "ralph-lauren-polo-shirt",
+  "price": 89,
+  "description": "Classic polo shirt in soft cotton piqué with iconic pony logo. Available in multiple colors with ribbed collar and cuffs.",
+  "images": [
+    "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 15,
+  "brand": "Ralph Lauren",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c073"
+  },
+  "title": "Zara Leather Jacket",
+  "slug": "zara-leather-jacket",
+  "price": 199,
+  "description": "Modern leather jacket with asymmetric zip closure, multiple pockets, and fitted silhouette. Perfect for adding edge to any outfit.",
+  "images": [
+    "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 22,
+  "brand": "Zara",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c074"
+  },
+  "title": "H&M Oversized Blazer",
+  "slug": "hm-oversized-blazer",
+  "price": 79,
+  "description": "Trendy oversized blazer in a soft fabric blend. Features notched lapels, front buttons, and functional pockets. Perfect for layering.",
+  "images": [
+    "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 30,
+  "brand": "H&M",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c075"
+  },
+  "title": "Uniqlo Heattech Ultra Warm Crew Neck Long Sleeve T-Shirt",
+  "slug": "uniqlo-heattech-ultra-warm-long-sleeve",
+  "price": 29,
+  "description": "Ultra-warm base layer with advanced heat-generating technology. Moisture-wicking fabric keeps you warm and dry in cold weather.",
+  "images": [
+    "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 0,
+  "brand": "Uniqlo",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c076"
+  },
+  "title": "Converse Chuck Taylor All Star High Top",
+  "slug": "converse-chuck-taylor-all-star-high-top",
+  "price": 65,
+  "description": "Iconic canvas sneakers with timeless style. Features rubber sole, metal eyelets, and classic star logo. Available in multiple colors.",
+  "images": [
+    "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1240892/pexels-photo-1240892.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 23,
+  "brand": "Converse",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c077"
+  },
+  "title": "Patagonia Down Sweater Jacket",
+  "slug": "patagonia-down-sweater-jacket",
+  "price": 229,
+  "description": "Lightweight down jacket with 800-fill-power goose down. Wind and water-resistant shell with recycled polyester construction.",
+  "images": [
+    "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4381"
+  },
+  "discount": 15,
+  "brand": "Patagonia",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c078"
+  },
+  "title": "KitchenAid Stand Mixer",
+  "slug": "kitchenaid-stand-mixer",
+  "price": 449,
+  "description": "Professional 5-quart stand mixer with 10 speeds and tilt-head design. Includes dough hook, wire whip, and flat beater attachments.",
+  "images": [
+    "https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4207707/pexels-photo-4207707.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4226881/pexels-photo-4226881.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4382"
+  },
+  "discount": 12,
+  "brand": "KitchenAid",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c079"
+  },
+  "title": "Dyson V15 Detect Vacuum Cleaner",
+  "slug": "dyson-v15-detect-vacuum-cleaner",
+  "price": 749,
+  "description": "Cordless vacuum with laser dust detection, powerful suction, and up to 60 minutes run time. Features advanced filtration system.",
+  "images": [
+    "https://images.pexels.com/photos/5591663/pexels-photo-5591663.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4108715/pexels-photo-4108715.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4099096/pexels-photo-4099096.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4382"
+  },
+  "discount": 18,
+  "brand": "Dyson",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c07a"
+  },
+  "title": "Instant Pot Duo 7-in-1 Pressure Cooker",
+  "slug": "instant-pot-duo-7-in-1-pressure-cooker",
+  "price": 99,
+  "description": "Multi-functional electric pressure cooker that replaces 7 kitchen appliances. Features smart programs and safety mechanisms.",
+  "images": [
+    "https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4207707/pexels-photo-4207707.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4226881/pexels-photo-4226881.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4382"
+  },
+  "discount": 35,
+  "brand": "Instant Pot",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c07b"
+  },
+  "title": "West Elm Mid-Century Sofa",
+  "slug": "west-elm-mid-century-sofa",
+  "price": 1299,
+  "description": "Stylish 3-seater sofa with clean lines, tapered legs, and premium upholstery. Perfect centerpiece for modern living rooms.",
+  "images": [
+    "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4382"
+  },
+  "discount": 8,
+  "brand": "West Elm",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c07c"
+  },
+  "title": "Philips Hue Smart Light Starter Kit",
+  "slug": "philips-hue-smart-light-starter-kit",
+  "price": 199,
+  "description": "Smart lighting system with 4 color-changing bulbs and bridge. Control via smartphone app with millions of colors and dimming.",
+  "images": [
+    "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1129019/pexels-photo-1129019.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4382"
+  },
+  "discount": 25,
+  "brand": "Philips",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c07d"
+  },
+  "title": "IKEA Hemnes Bookshelf",
+  "slug": "ikea-hemnes-bookshelf",
+  "price": 149,
+  "description": "Solid wood bookshelf with adjustable shelves. Clean Scandinavian design that fits perfectly in any room. Easy assembly required.",
+  "images": [
+    "https://images.pexels.com/photos/2177482/pexels-photo-2177482.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4382"
+  },
+  "discount": 0,
+  "brand": "IKEA",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c07e"
+  },
+  "title": "Ninja Foodi Personal Blender",
+  "slug": "ninja-foodi-personal-blender",
+  "price": 79,
+  "description": "Compact personal blender perfect for smoothies and protein shakes. Features powerful motor and to-go cups with lids.",
+  "images": [
+    "https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4207707/pexels-photo-4207707.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4226881/pexels-photo-4226881.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4388"
+  },
+  "discount": 28,
+  "brand": "Ninja",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c07f"
+  },
+  "title": "Cuisinart Classic Stainless Steel Cookware Set",
+  "slug": "cuisinart-classic-cookware-set",
+  "price": 199,
+  "description": "10-piece stainless steel cookware set with aluminum base for even heat distribution. Dishwasher safe and oven safe up to 200°F.",
+  "images": [
+    "https://images.pexels.com/photos/4226879/pexels-photo-4226879.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4226881/pexels-photo-4226881.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4207707/pexels-photo-4207707.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4388"
+  },
+  "discount": 20,
+  "brand": "Cuisinart",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c080"
+  },
+  "title": "Keurig K-Elite Coffee Maker",
+  "slug": "keurig-k-elite-coffee-maker",
+  "price": 169,
+  "description": "Single-serve coffee maker with strong brew button, iced coffee setting, and programmable auto-on feature. Works with all K-Cup pods.",
+  "images": [
+    "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/324030/pexels-photo-324030.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4388"
+  },
+  "discount": 25,
+  "brand": "Keurig",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c081"
+  },
+  "title": "Vitamix A3200 Ascent Series Blender",
+  "slug": "vitamix-a3200-ascent-series-blender",
+  "price": 449,
+  "description": "Professional-grade blender with variable speed control, pulse feature, and self-cleaning function. Perfect for smoothies, soups, and more.",
+  "images": [
+    "https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4207707/pexels-photo-4207707.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/4226881/pexels-photo-4226881.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4388"
+  },
+  "discount": 10,
+  "brand": "Vitamix",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c082"
+  },
+  "title": "Peloton Bike+",
+  "slug": "peloton-bike-plus",
+  "price": 2495,
+  "description": "Premium exercise bike with rotating HD touchscreen, immersive workouts, and real-time metrics. Includes access to live classes.",
+  "images": [
+    "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4383"
+  },
+  "discount": 5,
+  "brand": "Peloton",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c083"
+  },
+  "title": "Wilson Pro Staff Tennis Racket",
+  "slug": "wilson-pro-staff-tennis-racket",
+  "price": 249,
+  "description": "Professional tennis racket with precision and control for advanced players. Features carbon fiber construction and comfortable grip.",
+  "images": [
+    "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/163444/sport-tenis-ball-tennis-163444.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4383"
+  },
+  "discount": 20,
+  "brand": "Wilson",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c084"
+  },
+  "title": "Bowflex Adjustable Dumbbells",
+  "slug": "bowflex-adjustable-dumbbells",
+  "price": 549,
+  "description": "Space-saving adjustable dumbbells that replace 15 sets of weights. Quick weight changes from 5 to 52.5 pounds per dumbbell.",
+  "images": [
+    "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4383"
+  },
+  "discount": 15,
+  "brand": "Bowflex",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da428f27db9883c403c085"
+  },
+  "title": "Fitbit Charge 5 Fitness Tracker",
+  "slug": "fitbit-charge-5-fitness-tracker",
+  "price": 199,
+  "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, sleep tracking, and 7-day battery life. Water resistant design.",
+  "images": [
+    "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=200",
+    "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=200"
+  ],
+  "category": {
+    "$oid": "68da0d3611677fe5e0bc4383"
+  },
+  "discount": 28,
+  "brand": "Fitbit",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T08:25:51.205Z"
+  }
+}]

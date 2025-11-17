@@ -1,0 +1,688 @@
+[
+  {
+    "title": "iPhone 15 Pro Max",
+    "slug": "iphone-15-pro-max",
+    "price": 1199,
+    "discount": 5,
+    "brand": "Apple",
+    "description": "The most advanced iPhone yet with titanium design, A17 Pro chip, and professional camera system. Features a 6.7-inch Super Retina XDR display and up to 1TB storage.",
+    "images": [
+      "https://i.imgur.com/iphone15pro.jpeg",
+      "https://i.imgur.com/iphone15pro2.jpeg",
+      "https://i.imgur.com/iphone15pro3.jpeg"
+    ]
+  },
+  {
+    "title": "Samsung 65-inch 4K QLED Smart TV",
+    "slug": "samsung-65-inch-4k-qled-smart-tv",
+    "price": 899,
+    "discount": 15,
+    "brand": "Samsung",
+    "description": "Experience stunning picture quality with Quantum Dot technology, HDR support, and smart TV features. Perfect for movie nights and gaming with low input lag.",
+    "images": [
+      "https://i.imgur.com/samsung-tv.jpeg",
+      "https://i.imgur.com/samsung-tv2.jpeg",
+      "https://i.imgur.com/samsung-tv3.jpeg"
+    ]
+  },
+  {
+    "title": "MacBook Air M3",
+    "slug": "macbook-air-m3",
+    "price": 1099,
+    "discount": 8,
+    "brand": "Apple",
+    "description": "Ultra-thin and lightweight laptop with M3 chip, 13.6-inch Liquid Retina display, and up to 18 hours of battery life. Perfect for work and creativity.",
+    "images": [
+      "https://i.imgur.com/macbook-air.jpeg",
+      "https://i.imgur.com/macbook-air2.jpeg",
+      "https://i.imgur.com/macbook-air3.jpeg"
+    ]
+  },
+  {
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "slug": "sony-wh-1000xm5-wireless-headphones",
+    "price": 399,
+    "discount": 20,
+    "brand": "Sony",
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality, 30-hour battery life, and crystal-clear call quality.",
+    "images": [
+      "https://i.imgur.com/sony-headphones.jpeg",
+      "https://i.imgur.com/sony-headphones2.jpeg",
+      "https://i.imgur.com/sony-headphones3.jpeg"
+    ]
+  },
+  {
+    "title": "Nintendo Switch OLED",
+    "slug": "nintendo-switch-oled",
+    "price": 349,
+    "discount": 10,
+    "brand": "Nintendo",
+    "description": "Gaming console with vibrant 7-inch OLED screen, enhanced audio, and versatile play modes. Includes dock and Joy-Con controllers.",
+    "images": [
+      "https://i.imgur.com/nintendo-switch.jpeg",
+      "https://i.imgur.com/nintendo-switch2.jpeg",
+      "https://i.imgur.com/nintendo-switch3.jpeg"
+    ]
+  },
+  {
+    "title": "Levi's 501 Original Jeans",
+    "slug": "levis-501-original-jeans",
+    "price": 89,
+    "discount": 25,
+    "brand": "Levi's",
+    "description": "Classic straight-leg jeans with authentic fit and timeless style. Made from premium denim with button fly and five-pocket styling.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/levis-jeans.jpeg",
+      "https://i.imgur.com/levis-jeans2.jpeg",
+      "https://i.imgur.com/levis-jeans3.jpeg"
+    ]
+  },
+  {
+    "title": "Nike Air Max 270 Sneakers",
+    "slug": "nike-air-max-270-sneakers",
+    "price": 150,
+    "discount": 30,
+    "brand": "Nike",
+    "description": "Lifestyle sneakers with large Air unit in the heel for all-day comfort. Features breathable mesh upper and modern silhouette.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/nike-airmax.jpeg",
+      "https://i.imgur.com/nike-airmax2.jpeg",
+      "https://i.imgur.com/nike-airmax3.jpeg"
+    ]
+  },
+  {
+    "title": "Adidas Ultraboost 23 Running Shoes",
+    "slug": "adidas-ultraboost-23-running-shoes",
+    "price": 190,
+    "discount": 18,
+    "brand": "Adidas",
+    "description": "Premium running shoes with Boost midsole technology, Primeknit upper, and Continental rubber outsole for superior traction.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/adidas-ultraboost.jpeg",
+      "https://i.imgur.com/adidas-ultraboost2.jpeg",
+      "https://i.imgur.com/adidas-ultraboost3.jpeg"
+    ]
+  },
+  {
+    "title": "Ralph Lauren Polo Shirt",
+    "slug": "ralph-lauren-polo-shirt",
+    "price": 89,
+    "discount": 15,
+    "brand": "Ralph Lauren",
+    "description": "Classic polo shirt in soft cotton piqué with iconic pony logo. Available in multiple colors with ribbed collar and cuffs.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/polo-shirt.jpeg",
+      "https://i.imgur.com/polo-shirt2.jpeg",
+      "https://i.imgur.com/polo-shirt3.jpeg"
+    ]
+  },
+  {
+    "title": "Zara Leather Jacket",
+    "slug": "zara-leather-jacket",
+    "price": 199,
+    "discount": 22,
+    "brand": "Zara",
+    "description": "Modern leather jacket with asymmetric zip closure, multiple pockets, and fitted silhouette. Perfect for adding edge to any outfit.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/leather-jacket.jpeg",
+      "https://i.imgur.com/leather-jacket2.jpeg",
+      "https://i.imgur.com/leather-jacket3.jpeg"
+    ]
+  },
+  {
+    "title": "KitchenAid Stand Mixer",
+    "slug": "kitchenaid-stand-mixer",
+    "price": 449,
+    "discount": 12,
+    "brand": "KitchenAid",
+    "description": "Professional 5-quart stand mixer with 10 speeds and tilt-head design. Includes dough hook, wire whip, and flat beater attachments.",
+    "category": "68da0d3611677fe5e0bc4382",
+    "images": [
+      "https://i.imgur.com/kitchenaid-mixer.jpeg",
+      "https://i.imgur.com/kitchenaid-mixer2.jpeg",
+      "https://i.imgur.com/kitchenaid-mixer3.jpeg"
+    ]
+  },
+  {
+    "title": "Dyson V15 Detect Vacuum Cleaner",
+    "slug": "dyson-v15-detect-vacuum-cleaner",
+    "price": 749,
+    "discount": 18,
+    "brand": "Dyson",
+    "description": "Cordless vacuum with laser dust detection, powerful suction, and up to 60 minutes run time. Features advanced filtration system.",
+    "category": "68da0d3611677fe5e0bc4382",
+    "images": [
+      "https://i.imgur.com/dyson-vacuum.jpeg",
+      "https://i.imgur.com/dyson-vacuum2.jpeg",
+      "https://i.imgur.com/dyson-vacuum3.jpeg"
+    ]
+  },
+  {
+    "title": "Instant Pot Duo 7-in-1 Pressure Cooker",
+    "slug": "instant-pot-duo-7-in-1-pressure-cooker",
+    "price": 99,
+    "discount": 35,
+    "brand": "Instant Pot",
+    "description": "Multi-functional electric pressure cooker that replaces 7 kitchen appliances. Features smart programs and safety mechanisms.",
+    "category": "68da0d3611677fe5e0bc4382",
+    "images": [
+      "https://i.imgur.com/instant-pot.jpeg",
+      "https://i.imgur.com/instant-pot2.jpeg",
+      "https://i.imgur.com/instant-pot3.jpeg"
+    ]
+  },
+  {
+    "title": "West Elm Mid-Century Sofa",
+    "slug": "west-elm-mid-century-sofa",
+    "price": 1299,
+    "discount": 8,
+    "brand": "West Elm",
+    "description": "Stylish 3-seater sofa with clean lines, tapered legs, and premium upholstery. Perfect centerpiece for modern living rooms.",
+    "category": "68da0d3611677fe5e0bc4382",
+    "images": [
+      "https://i.imgur.com/mid-century-sofa.jpeg",
+      "https://i.imgur.com/mid-century-sofa2.jpeg",
+      "https://i.imgur.com/mid-century-sofa3.jpeg"
+    ]
+  },
+  {
+    "title": "Philips Hue Smart Light Starter Kit",
+    "slug": "philips-hue-smart-light-starter-kit",
+    "price": 199,
+    "discount": 25,
+    "brand": "Philips",
+    "description": "Smart lighting system with 4 color-changing bulbs and bridge. Control via smartphone app with millions of colors and dimming.",
+    "category": "68da0d3611677fe5e0bc4382",
+    "images": [
+      "https://i.imgur.com/philips-hue.jpeg",
+      "https://i.imgur.com/philips-hue2.jpeg",
+      "https://i.imgur.com/philips-hue3.jpeg"
+    ]
+  },
+  {
+    "title": "Peloton Bike+",
+    "slug": "peloton-bike-plus",
+    "price": 2495,
+    "discount": 5,
+    "brand": "Peloton",
+    "description": "Premium exercise bike with rotating HD touchscreen, immersive workouts, and real-time metrics. Includes access to live classes.",
+    "images": [
+      "https://i.imgur.com/peloton-bike.jpeg",
+      "https://i.imgur.com/peloton-bike2.jpeg",
+      "https://i.imgur.com/peloton-bike3.jpeg"
+    ]
+  },
+  {
+    "title": "Wilson Pro Staff Tennis Racket",
+    "slug": "wilson-pro-staff-tennis-racket",
+    "price": 249,
+    "discount": 20,
+    "brand": "Wilson",
+    "description": "Professional tennis racket with precision and control for advanced players. Features carbon fiber construction and comfortable grip.",
+    "images": [
+      "https://i.imgur.com/tennis-racket.jpeg",
+      "https://i.imgur.com/tennis-racket2.jpeg",
+      "https://i.imgur.com/tennis-racket3.jpeg"
+    ]
+  },
+  {
+    "title": "Bowflex Adjustable Dumbbells",
+    "slug": "bowflex-adjustable-dumbbells",
+    "price": 549,
+    "discount": 15,
+    "brand": "Bowflex",
+    "description": "Space-saving adjustable dumbbells that replace 15 sets of weights. Quick weight changes from 5 to 52.5 pounds per dumbbell.",
+    "images": [
+      "https://i.imgur.com/bowflex-dumbbells.jpeg",
+      "https://i.imgur.com/bowflex-dumbbells2.jpeg",
+      "https://i.imgur.com/bowflex-dumbbells3.jpeg"
+    ]
+  },
+  {
+    "title": "Fitbit Charge 5 Fitness Tracker",
+    "slug": "fitbit-charge-5-fitness-tracker",
+    "price": 199,
+    "discount": 28,
+    "brand": "Fitbit",
+    "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, sleep tracking, and 7-day battery life. Water resistant design.",
+    "images": [
+      "https://i.imgur.com/fitbit-charge5.jpeg",
+      "https://i.imgur.com/fitbit-charge52.jpeg",
+      "https://i.imgur.com/fitbit-charge53.jpeg"
+    ]
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "slug": "seven-husbands-evelyn-hugo",
+    "price": 16,
+    "discount": 0,
+    "brand": "St. Martin's Press",
+    "description": "Bestselling novel by Taylor Jenkins Reid about reclusive Hollywood icon Evelyn Hugo who finally decides to tell her life story.",
+    "category": "68da0d3611677fe5e0bc4384",
+    "images": [
+      "https://i.imgur.com/evelyn-hugo.jpeg",
+      "https://i.imgur.com/evelyn-hugo2.jpeg",
+      "https://i.imgur.com/evelyn-hugo3.jpeg"
+    ]
+  },
+  {
+    "title": "Atomic Habits by James Clear",
+    "slug": "atomic-habits-james-clear",
+    "price": 18,
+    "discount": 12,
+    "brand": "Avery",
+    "description": "Practical guide to building good habits and breaking bad ones. Learn how small changes can make a remarkable difference.",
+    "category": "68da0d3611677fe5e0bc4384",
+    "images": [
+      "https://i.imgur.com/atomic-habits.jpeg",
+      "https://i.imgur.com/atomic-habits2.jpeg",
+      "https://i.imgur.com/atomic-habits3.jpeg"
+    ]
+  },
+  {
+    "title": "Spider-Man: No Way Home 4K Blu-ray",
+    "slug": "spider-man-no-way-home-4k-bluray",
+    "price": 34,
+    "discount": 22,
+    "brand": "Sony Pictures",
+    "description": "Blockbuster superhero film in stunning 4K resolution with Dolby Atmos sound. Includes bonus features and digital copy.",
+    "category": "68da0d3611677fe5e0bc4384",
+    "images": [
+      "https://i.imgur.com/spiderman-bluray.jpeg",
+      "https://i.imgur.com/spiderman-bluray2.jpeg",
+      "https://i.imgur.com/spiderman-bluray3.jpeg"
+    ]
+  },
+  {
+    "title": "Fenty Beauty Foundation",
+    "slug": "fenty-beauty-foundation",
+    "price": 36,
+    "discount": 10,
+    "brand": "Fenty Beauty",
+    "description": "Full-coverage liquid foundation with 50 shades for all skin tones. Long-wearing, transfer-resistant formula with buildable coverage.",
+    "category": "68da0d3611677fe5e0bc4385",
+    "images": [
+      "https://i.imgur.com/fenty-foundation.jpeg",
+      "https://i.imgur.com/fenty-foundation2.jpeg",
+      "https://i.imgur.com/fenty-foundation3.jpeg"
+    ]
+  },
+  {
+    "title": "Drunk Elephant Vitamin C Serum",
+    "slug": "drunk-elephant-vitamin-c-serum",
+    "price": 78,
+    "discount": 15,
+    "brand": "Drunk Elephant",
+    "description": "Potent antioxidant serum with 15% L-Ascorbic Acid to brighten and firm skin. Helps reduce signs of aging and environmental damage.",
+    "category": "68da0d3611677fe5e0bc4385",
+    "images": [
+      "https://i.imgur.com/vitamin-c-serum.jpeg",
+      "https://i.imgur.com/vitamin-c-serum2.jpeg",
+      "https://i.imgur.com/vitamin-c-serum3.jpeg"
+    ]
+  },
+  {
+    "title": "Dyson Airwrap Hair Styler",
+    "slug": "dyson-airwrap-hair-styler",
+    "price": 599,
+    "discount": 8,
+    "brand": "Dyson",
+    "description": "Multi-styler that curls, waves, and smooths hair without extreme heat. Uses Coanda effect for voluminous styles and reduced damage.",
+    "category": "68da0d3611677fe5e0bc4385",
+    "images": [
+      "https://i.imgur.com/dyson-airwrap.jpeg",
+      "https://i.imgur.com/dyson-airwrap2.jpeg",
+      "https://i.imgur.com/dyson-airwrap3.jpeg"
+    ]
+  },
+  {
+    "title": "Tesla Model 3 All-Weather Floor Mats",
+    "slug": "tesla-model-3-floor-mats",
+    "price": 199,
+    "discount": 0,
+    "brand": "Tesla",
+    "description": "Custom-fit floor mats designed specifically for Tesla Model 3. Made from premium materials with easy-to-clean surface.",
+    "category": "68da0d3611677fe5e0bc4386",
+    "images": [
+      "https://i.imgur.com/tesla-mats.jpeg",
+      "https://i.imgur.com/tesla-mats2.jpeg",
+      "https://i.imgur.com/tesla-mats3.jpeg"
+    ]
+  },
+  {
+    "title": "Chemical Guys Car Wash Kit",
+    "slug": "chemical-guys-car-wash-kit",
+    "price": 89,
+    "discount": 25,
+    "brand": "Chemical Guys",
+    "description": "Complete car washing kit with premium shampoo, microfiber towels, wash mitt, and bucket. Everything needed for professional results.",
+    "category": "68da0d3611677fe5e0bc4386",
+    "images": [
+      "https://i.imgur.com/car-wash-kit.jpeg",
+      "https://i.imgur.com/car-wash-kit2.jpeg",
+      "https://i.imgur.com/car-wash-kit3.jpeg"
+    ]
+  },
+  {
+    "title": "Garmin DashCam 67W",
+    "slug": "garmin-dashcam-67w",
+    "price": 249,
+    "discount": 18,
+    "brand": "Garmin",
+    "description": "Wide-angle dash camera with 1440p video recording, GPS logging, and incident detection. Features voice control and smartphone connectivity.",
+    "category": "68da0d3611677fe5e0bc4386",
+    "images": [
+      "https://i.imgur.com/garmin-dashcam.jpeg",
+      "https://i.imgur.com/garmin-dashcam2.jpeg",
+      "https://i.imgur.com/garmin-dashcam3.jpeg"
+    ]
+  },
+  {
+    "title": "LEGO Creator Expert Taj Mahal",
+    "slug": "lego-creator-expert-taj-mahal",
+    "price": 369,
+    "discount": 12,
+    "brand": "LEGO",
+    "description": "Intricate 5923-piece LEGO set recreating the iconic Taj Mahal. Features detailed architecture and comes with comprehensive building instructions.",
+    "category": "68da0d3611677fe5e0bc4387",
+    "images": [
+      "https://i.imgur.com/lego-taj-mahal.jpeg",
+      "https://i.imgur.com/lego-taj-mahal2.jpeg",
+      "https://i.imgur.com/lego-taj-mahal3.jpeg"
+    ]
+  },
+  {
+    "title": "Monopoly Board Game",
+    "slug": "monopoly-board-game",
+    "price": 29,
+    "discount": 20,
+    "brand": "Hasbro",
+    "description": "Classic property trading board game for 2-8 players. Build your real estate empire and bankrupt your opponents in this timeless game.",
+    "category": "68da0d3611677fe5e0bc4387",
+    "images": [
+      "https://i.imgur.com/monopoly.jpeg",
+      "https://i.imgur.com/monopoly2.jpeg",
+      "https://i.imgur.com/monopoly3.jpeg"
+    ]
+  },
+  {
+    "title": "PlayStation 5 Console",
+    "slug": "playstation-5-console",
+    "price": 499,
+    "discount": 0,
+    "brand": "Sony",
+    "description": "Next-generation gaming console with 4K gaming, ray tracing, and ultra-high-speed SSD. Includes DualSense wireless controller.",
+    "category": "68da0d3611677fe5e0bc4387",
+    "images": [
+      "https://i.imgur.com/ps5-console.jpeg",
+      "https://i.imgur.com/ps5-console2.jpeg",
+      "https://i.imgur.com/ps5-console3.jpeg"
+    ]
+  },
+  {
+    "title": "iPhone 14 Pro",
+    "slug": "iphone-14-pro",
+    "price": 999,
+    "discount": 12,
+    "brand": "Apple",
+    "description": "Pro camera system with 48MP main camera, A16 Bionic chip, and Dynamic Island. Available in Space Black, Silver, Gold, and Deep Purple.",
+    "images": [
+      "https://i.imgur.com/iphone14pro.jpeg",
+      "https://i.imgur.com/iphone14pro2.jpeg",
+      "https://i.imgur.com/iphone14pro3.jpeg"
+    ]
+  },
+  {
+    "title": "Samsung Galaxy Tab S9",
+    "slug": "samsung-galaxy-tab-s9",
+    "price": 799,
+    "discount": 15,
+    "brand": "Samsung",
+    "description": "Premium Android tablet with 11-inch Dynamic AMOLED display, S Pen included, and desktop-class performance for work and play.",
+    "images": [
+      "https://i.imgur.com/galaxy-tab-s9.jpeg",
+      "https://i.imgur.com/galaxy-tab-s92.jpeg",
+      "https://i.imgur.com/galaxy-tab-s93.jpeg"
+    ]
+  },
+  {
+    "title": "AirPods Pro 2nd Generation",
+    "slug": "airpods-pro-2nd-generation",
+    "price": 249,
+    "discount": 18,
+    "brand": "Apple",
+    "description": "Wireless earbuds with active noise cancellation, transparency mode, and spatial audio. Features MagSafe charging case.",
+    "images": [
+      "https://i.imgur.com/airpods-pro2.jpeg",
+      "https://i.imgur.com/airpods-pro22.jpeg",
+      "https://i.imgur.com/airpods-pro23.jpeg"
+    ]
+  },
+  {
+    "title": "Canon EOS R6 Mark II Camera",
+    "slug": "canon-eos-r6-mark-ii-camera",
+    "price": 2499,
+    "discount": 8,
+    "brand": "Canon",
+    "description": "Full-frame mirrorless camera with 24.2MP sensor, 4K video recording, and advanced autofocus system. Perfect for professional photography.",
+    "images": [
+      "https://i.imgur.com/canon-r6-mark2.jpeg",
+      "https://i.imgur.com/canon-r6-mark22.jpeg",
+      "https://i.imgur.com/canon-r6-mark23.jpeg"
+    ]
+  },
+  {
+    "title": "H&M Oversized Blazer",
+    "slug": "hm-oversized-blazer",
+    "price": 79,
+    "discount": 30,
+    "brand": "H&M",
+    "description": "Trendy oversized blazer in a soft fabric blend. Features notched lapels, front buttons, and functional pockets. Perfect for layering.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/hm-blazer.jpeg",
+      "https://i.imgur.com/hm-blazer2.jpeg",
+      "https://i.imgur.com/hm-blazer3.jpeg"
+    ]
+  },
+  {
+    "title": "Uniqlo Heattech Ultra Warm Crew Neck Long Sleeve T-Shirt",
+    "slug": "uniqlo-heattech-ultra-warm-long-sleeve",
+    "price": 29,
+    "discount": 0,
+    "brand": "Uniqlo",
+    "description": "Ultra-warm base layer with advanced heat-generating technology. Moisture-wicking fabric keeps you warm and dry in cold weather.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/uniqlo-heattech.jpeg",
+      "https://i.imgur.com/uniqlo-heattech2.jpeg",
+      "https://i.imgur.com/uniqlo-heattech3.jpeg"
+    ]
+  },
+  {
+    "title": "Converse Chuck Taylor All Star High Top",
+    "slug": "converse-chuck-taylor-all-star-high-top",
+    "price": 65,
+    "discount": 23,
+    "brand": "Converse",
+    "description": "Iconic canvas sneakers with timeless style. Features rubber sole, metal eyelets, and classic star logo. Available in multiple colors.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/converse-allstar.jpeg",
+      "https://i.imgur.com/converse-allstar2.jpeg",
+      "https://i.imgur.com/converse-allstar3.jpeg"
+    ]
+  },
+  {
+    "title": "Patagonia Down Sweater Jacket",
+    "slug": "patagonia-down-sweater-jacket",
+    "price": 229,
+    "discount": 15,
+    "brand": "Patagonia",
+    "description": "Lightweight down jacket with 800-fill-power goose down. Wind and water-resistant shell with recycled polyester construction.",
+    "category": "68da0d3611677fe5e0bc4381",
+    "images": [
+      "https://i.imgur.com/patagonia-down.jpeg",
+      "https://i.imgur.com/patagonia-down2.jpeg",
+      "https://i.imgur.com/patagonia-down3.jpeg"
+    ]
+  },
+  {
+    "title": "IKEA Hemnes Bookshelf",
+    "slug": "ikea-hemnes-bookshelf",
+    "price": 149,
+    "discount": 0,
+    "brand": "IKEA",
+    "description": "Solid wood bookshelf with adjustable shelves. Clean Scandinavian design that fits perfectly in any room. Easy assembly required.",
+    "category": "68da0d3611677fe5e0bc4382",
+    "images": [
+      "https://i.imgur.com/ikea-hemnes.jpeg",
+      "https://i.imgur.com/ikea-hemnes2.jpeg",
+      "https://i.imgur.com/ikea-hemnes3.jpeg"
+    ]
+  },
+  {
+    "title": "Ninja Foodi Personal Blender",
+    "slug": "ninja-foodi-personal-blender",
+    "price": 79,
+    "discount": 28,
+    "brand": "Ninja",
+    "description": "Compact personal blender perfect for smoothies and protein shakes. Features powerful motor and to-go cups with lids.",
+    "category": "68da0d3611677fe5e0bc4388",
+    "images": [
+      "https://i.imgur.com/ninja-blender.jpeg",
+      "https://i.imgur.com/ninja-blender2.jpeg",
+      "https://i.imgur.com/ninja-blender3.jpeg"
+    ]
+  },
+  {
+    "title": "Cuisinart Classic Stainless Steel Cookware Set",
+    "slug": "cuisinart-classic-cookware-set",
+    "price": 199,
+    "discount": 20,
+    "brand": "Cuisinart",
+    "description": "10-piece stainless steel cookware set with aluminum base for even heat distribution. Dishwasher safe and oven safe up to 500°F.",
+    "category": "68da0d3611677fe5e0bc4388",
+    "images": [
+      "https://i.imgur.com/cuisinart-cookware.jpeg",
+      "https://i.imgur.com/cuisinart-cookware2.jpeg",
+      "https://i.imgur.com/cuisinart-cookware3.jpeg"
+    ]
+  },
+  {
+    "title": "Keurig K-Elite Coffee Maker",
+    "slug": "keurig-k-elite-coffee-maker",
+    "price": 169,
+    "discount": 25,
+    "brand": "Keurig",
+    "description": "Single-serve coffee maker with strong brew button, iced coffee setting, and programmable auto-on feature. Works with all K-Cup pods.",
+    "category": "68da0d3611677fe5e0bc4388",
+    "images": [
+      "https://i.imgur.com/keurig-elite.jpeg",
+      "https://i.imgur.com/keurig-elite2.jpeg",
+      "https://i.imgur.com/keurig-elite3.jpeg"
+    ]
+  },
+  {
+    "title": "Vitamix A3500 Ascent Series Blender",
+    "slug": "vitamix-a3500-ascent-series-blender",
+    "price": 449,
+    "discount": 10,
+    "brand": "Vitamix",
+    "description": "Professional-grade blender with variable speed control, pulse feature, and self-cleaning function. Perfect for smoothies, soups, and more.",
+    "category": "68da0d3611677fe5e0bc4388",
+    "images": [
+      "https://i.imgur.com/vitamix-a3500.jpeg",
+      "https://i.imgur.com/vitamix-a35002.jpeg",
+      "https://i.imgur.com/vitamix-a35003.jpeg"
+    ]
+  },
+  {
+    "title": "Yoga Mat - Premium 6mm Thick",
+    "slug": "premium-yoga-mat-6mm",
+    "price": 49,
+    "discount": 0,
+    "brand": "Manduka",
+    "description": "High-quality yoga mat with superior grip and cushioning. Made from eco-friendly materials with alignment lines for perfect poses.",
+    "images": [
+      "https://i.imgur.com/yoga-mat.jpeg",
+      "https://i.imgur.com/yoga-mat2.jpeg",
+      "https://i.imgur.com/yoga-mat3.jpeg"
+    ]
+  },
+  {
+    "title": "Therabody Theragun Elite Massage Gun",
+    "slug": "therabody-theragun-elite-massage-gun",
+    "price": 399,
+    "discount": 22,
+    "brand": "Therabody",
+    "description": "Professional-grade percussion massage device with smart app integration, customizable speed range, and ultra-quiet operation.",
+    "category": "68da0d3611677fe5e0bc4389",
+    "images": [
+      "https://i.imgur.com/theragun-elite.jpeg",
+      "https://i.imgur.com/theragun-elite2.jpeg",
+      "https://i.imgur.com/theragun-elite3.jpeg"
+    ]
+  },
+  {
+    "title": "Oura Ring Gen3 Sleep & Activity Tracker",
+    "slug": "oura-ring-gen3-sleep-activity-tracker",
+    "price": 299,
+    "discount": 0,
+    "brand": "Oura",
+    "description": "Smart ring that tracks sleep, activity, and recovery metrics. Lightweight titanium design with 7-day battery life and water resistance.",
+    "category": "68da0d3611677fe5e0bc4389",
+    "images": [
+      "https://i.imgur.com/oura-ring.jpeg",
+      "https://i.imgur.com/oura-ring2.jpeg",
+      "https://i.imgur.com/oura-ring3.jpeg"
+    ]
+  },
+  {
+    "title": "Philips Sonicare DiamondClean Smart Electric Toothbrush",
+    "slug": "philips-sonicare-diamondclean-smart",
+    "price": 249,
+    "discount": 18,
+    "brand": "Philips",
+    "description": "Premium electric toothbrush with app connectivity, multiple cleaning modes, and smart brush head recognition. Includes charging glass.",
+    "category": "68da0d3611677fe5e0bc4389",
+    "images": [
+      "https://i.imgur.com/sonicare-smart.jpeg",
+      "https://i.imgur.com/sonicare-smart2.jpeg",
+      "https://i.imgur.com/sonicare-smart3.jpeg"
+    ]
+  },
+  {
+    "title": "KONG Classic Dog Toy",
+    "slug": "kong-classic-dog-toy",
+    "price": 12,
+    "discount": 0,
+    "brand": "KONG",
+    "description": "Durable rubber dog toy that can be stuffed with treats. Satisfies natural chewing instincts and provides mental stimulation for dogs.",
+    "category": "68da0d3611677fe5e0bc438a",
+    "images": [
+      "https://i.imgur.com/kong-classic.jpeg",
+      "https://i.imgur.com/kong-classic2.jpeg",
+      "https://i.imgur.com/kong-classic3.jpeg"
+    ]
+  },
+  {
+    "title": "Purina Pro Plan High Protein Dog Food",
+    "slug": "purina-pro-plan-high-protein-dog-food",
+    "price": 89,
+    "discount": 15,
+    "brand": "Purina Pro Plan",
+    "description": "Premium dry dog food with real chicken as the first ingredient. Formulated to support muscle development and overall health.",
+    "category": "68da0d3611677fe5e0bc438a",
+    "images": [
+      "https://i.imgur.com/purina-pro-plan.jpeg",
+      "https://i.imgur.com/purina-pro-plan2.jpeg",
+      "https://i.imgur.com/purina-pro-plan3.jpeg"
+    ]
+  }
+]
