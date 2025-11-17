@@ -10,23 +10,35 @@ connectDB();
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// CORS whitelist (add your Vercel URL after deploy)
 const allowedOrigins = [
-  'http://localhost:5173',               
-  // add your Vercel domain here, e.g.:
-  'https://ecommerce-reacts.vercel.app'
+  "http://localhost:5173",                 // Vite dev server
+  "http://127.0.0.1:5173",                 // sometimes used
+  "https://your-frontend.vercel.app"       // add your actual Vercel domain
 ];
 
-// Use CORS with whitelist
-app.use(cors({
-  origin: function (origin, callback) {
-    // allow requests with no origin (like mobile apps or curl)
-    if (!origin) return callback(null, true);
-    if (allowedOrigins.includes(origin)) return callback(null, true);
-    return callback(new Error('Not allowed by CORS'));
-  },
-  credentials: true
-}));
+app.use((req, res, next) => {
+  const origin = req.headers.origin;
+  if (origin && allowedOrigins.includes(origin)) {
+    res.setHeader("Access-Control-Allow-Origin", origin);
+    res.setHeader("Access-Control-Allow-Credentials", "true");
+    res.setHeader(
+      "Access-Control-Allow-Methods",
+      "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS"
+    );
+    res.setHeader(
+      "Access-Control-Allow-Headers",
+      "Content-Type, Authorization, X-Requested-With, Accept"
+    );
+  }
+  // for OPTIONS preflight requests, allow private-network preflight if present
+  if (req.method === "OPTIONS") {
+    if (req.headers["access-control-request-private-network"]) {
+      res.setHeader("Access-Control-Allow-Private-Network", "true");
+    }
+    return res.sendStatus(204);
+  }
+  next();
+});
 
 app.use(express.json());
 
