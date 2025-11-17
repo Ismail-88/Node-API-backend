@@ -814,3 +814,21 @@ module.exports = router;
 - 🎯 Single responsibility per file
 
 **Your index.js is now just 40 lines instead of 600+!**
+
+
+
+
+
+
+
+
+
+
+
+MONGO_URI=mongodb+srv://issumail:deLVCaC8ahT4OYit@shopsphere.ihxvute.mongodb.net/shopsphere?retryWrites=true&w=majority&appName=ShopSphere
+PORT=5000
+JWT_SECRET=mySuperSecretKey123!@  
+JWT_EXPIRES_IN=7d
+# MONGO_URI = mongodb://127.0.0.1:27017/shop
+
+# mongodb+srv://issustylishking:ismail%402000@shopsphere.ihxvute.mongodb.net/?appName=ShopSphere
