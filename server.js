@@ -11,9 +11,9 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 const allowedOrigins = [
-  "http://localhost:5173",                 // Vite dev server
-  "http://127.0.0.1:5173",                 // sometimes used
-  "https://your-frontend.vercel.app"       // add your actual Vercel domain
+  "http://localhost:5173",                
+  "http://127.0.0.1:5173",                
+  "https://ecommerce-reacts.vercel.app/"       
 ];
 
 app.use((req, res, next) => {
@@ -30,7 +30,6 @@ app.use((req, res, next) => {
       "Content-Type, Authorization, X-Requested-With, Accept"
     );
   }
-  // for OPTIONS preflight requests, allow private-network preflight if present
   if (req.method === "OPTIONS") {
     if (req.headers["access-control-request-private-network"]) {
       res.setHeader("Access-Control-Allow-Private-Network", "true");
@@ -42,10 +41,8 @@ app.use((req, res, next) => {
 
 app.use(express.json());
 
-// serve uploads (note: Render's disk is ephemeral; for production use S3 or Cloudinary)
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
-// simple health route for Render and uptime checks
 app.get('/health', (req, res) => res.json({ ok: true }));
 
 // Import Routes
@@ -74,12 +71,10 @@ app.use('/api/user/categories', userCategoryRoutes);
 app.use('/api/user/orders', userOrderRoutes);
 app.use('/api/user/reviews', reviewRoutes);
 
-// Generic 404 handler (optional)
 app.use((req, res) => {
   res.status(404).json({ error: 'Not Found' });
 });
 
-// Basic error handler (so server doesn't crash with thrown errors)
 app.use((err, req, res, next) => {
   console.error(err && err.message ? err.message : err);
   res.status(500).json({ error: 'Server error' });
