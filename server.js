@@ -45,5 +45,11 @@ app.use('/', userOrderRoutes);
 //new
 app.use('/', reviewRoutes)
 
+app.get('/debug-db', (req, res) => {
+  res.json({
+    dbName: mongoose.connection.name,
+  });
+});
+
 // Start Server
 app.listen(PORT, () => console.log(`Port listening on ${PORT}`));

@@ -3,27 +3,25 @@ const router = express.Router();
 const Orders = require('../../model/orders');
 const User = require('../../model/user');
 
-// ============================================
-// CREATE ORDER
-// ============================================
+
 router.post("/orders", async (req, res) => {
   try {
     const {
-      userId,        // Clerk ID
-      mongoUserId,   // MongoDB _id
+      userId,        
+      mongoUserId,   
       ...rest
     } = req.body;
 
     // Save order in DB
     const order = new Orders({
       ...rest,
-      userId,        // Clerk ID
-      mongoUserId,   // MongoDB ID
+      userId,        
+      mongoUserId,   
     });
 
     await order.save();
 
-    // Update user's stats using mongoUserId
+   
     if (mongoUserId && typeof order.pricing?.grandTotal === "number") {
       await User.findByIdAndUpdate(mongoUserId, {
         $inc: {
@@ -41,9 +39,7 @@ router.post("/orders", async (req, res) => {
   }
 });
 
-// ============================================
-// GET ORDERS FOR SPECIFIC USER (Clerk ID)
-// ============================================
+
 router.get("/orders/user/:clerkId", async (req, res) => {
   try {
     const orders = await Orders.find({ userId: req.params.clerkId });
@@ -54,9 +50,7 @@ router.get("/orders/user/:clerkId", async (req, res) => {
   }
 });
 
-// ============================================
-// GET ORDER BY orderId
-// ============================================
+
 router.get("/order/:orderId", async (req, res) => {
   try {
     const order = await Orders.findOne({ orderId: req.params.orderId });
