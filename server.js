@@ -17,6 +17,8 @@ app.use(cors());
 app.use(express.json());
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
+const mongoose = require('mongoose');
+
 // Import Routes
 const adminAuthRoutes = require('./routes/admin/auth.routes');
 const adminUserRoutes = require('./routes/admin/user.routes');
