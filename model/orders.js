@@ -27,7 +27,25 @@ const orderSchema = new mongoose.Schema({
     zipCode: String,
     country: String
   },
-  paymentMethod: String,
+  // paymentMethod: String,
+  pricing: {
+    subtotal: Number,
+    deliveryFee: Number,
+    handlingFee: Number,
+    grandTotal: Number
+  },
+   paymentMethod: { 
+    type: String,
+    enum: ['razorpay', 'cod', 'stripe', 'paypal'],
+    required: true 
+  },
+  paymentId: String, // Razorpay payment ID
+  paymentStatus: {
+    type: String,
+    enum: ['pending', 'paid', 'failed'],
+    default: 'pending'
+  },
+  paidAt: Date,
   pricing: {
     subtotal: Number,
     deliveryFee: Number,

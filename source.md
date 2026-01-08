@@ -832,3 +832,6 @@ JWT_EXPIRES_IN=7d
 # MONGO_URI = mongodb://127.0.0.1:27017/shop
 
 # mongodb+srv://issustylishking:ismail%402000@shopsphere.ihxvute.mongodb.net/?appName=ShopSphere
+
+
+# MONGO_URI = mongodb://127.0.0.1:27017/shop

@@ -31,6 +31,7 @@ const userProductRoutes = require('./routes/user/product.routes');
 const userCategoryRoutes = require('./routes/user/category.routes');
 const userOrderRoutes = require('./routes/user/order.routes');
 const reviewRoutes = require('./routes/user/review.routes')
+const paymentRoutes = require('./routes/user/payment.routes'); // ADD THIS
 // Mount Routes
 // Admin Routes  
 app.use('/api/admin', adminAuthRoutes);
@@ -46,6 +47,7 @@ app.use('/', userCategoryRoutes);
 app.use('/', userOrderRoutes);
 //new
 app.use('/', reviewRoutes)
+app.use('/api/payment', paymentRoutes); // ADD THIS
 
 app.get('/debug-db', (req, res) => {
   res.json({
